@@ -92,7 +92,7 @@ def main():
             pass
 
     places = read_places(filename)
-    print("Travel Tracker 1.0 - by Daniel Uponi")
+    print("Travel Tracker 1.0 - by ALLAHISRABB")
     print(f"{len(places)} places loaded from places.csv")
     while True:
         print("\nMenu:")
